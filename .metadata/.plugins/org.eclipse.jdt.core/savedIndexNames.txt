@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+/Users/moka/Personal/Uni/Semester 3/Prog3/Projects/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2657394288.index
+3307517852.index
+2872762723.index
